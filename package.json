@@ -1,18 +1,18 @@
 {
   "name": "uglify-js",
-  "description": "JavaScript parser, mangler/compressor and beautifier toolkit",
+  "description": "Fork of UglifyJS2 meant to add some new features to the parser",
     "homepage": "http://lisperator.net/uglifyjs",
     "main": "tools/node.js",
     "version": "2.4.16",
     "engines": { "node" : ">=0.4.0" },
     "maintainers": [{
-        "name": "Mihai Bazon",
-        "email": "mihai.bazon@gmail.com",
+        "name": "Ryan Davis",
+        "email": "epikit@gmail.com",
         "web": "http://lisperator.net/"
     }],
     "repository": {
         "type": "git",
-        "url": "https://github.com/mishoo/UglifyJS2.git"
+        "url": "https://github.com/DavisDevelopment/UglifyJS2.git"
     },
     "dependencies": {
         "async"      : "~0.2.6",
